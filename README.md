@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=mohdumaransari7&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
 
 ---
@@ -35,12 +35,12 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mohdumaransari7&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdumaransari7&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+  <img src="https://streak-stats.demolab.com?user=mohdumaransari7&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </p>
 
 ---
@@ -48,7 +48,7 @@
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" alt="Contribution activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohdumaransari7&theme=tokyo-night&hide_border=true" alt="Contribution activity graph"/>
 </p>
 
 ---
@@ -67,7 +67,7 @@ Explore my repositories for more projects and experiments.
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/mohdumaransari7">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/">
